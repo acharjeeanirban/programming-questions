@@ -1,0 +1,1 @@
+This folder contains problems related to arrays and Strings.
